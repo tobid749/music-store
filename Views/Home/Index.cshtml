@@ -3,6 +3,20 @@
 }
 
 <div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
+    <h1>Music Store</h1>
+    <h2>Donde esta la mejor musica</h2>
+    <img src="" alt="">  
+   
 </div>
+@foreach (Disco item in ViewBag.catalogo.Values)
+{
+<div>
+    <h3>@ViewBag.catalogo.titulo</h3>
+    <img src="@ViewBag.catalogo.foto" >
+    <h5>Artista: @ViewBag.catalogo.Artista</h5>
+    <h5>Productor: @ViewBag.catalogo.productor</h5>
+    <h5>Genero: @ViewBag.catalogo.generoMusical</h5>
+   <a href='@Url.Action("selectDisco","Home", new {ID=@item.ID})'>Datos Disco</a>
+ </div>
+
+}

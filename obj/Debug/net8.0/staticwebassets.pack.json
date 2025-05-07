@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\TheBeatles.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\TheBeatles.jpg"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\adele.jfif",
+      "PackagePath": "staticwebassets\\Imagenes\\adele.jfif"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\beyonce.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\beyonce.jpg"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\coldplay.jfif",
+      "PackagePath": "staticwebassets\\Imagenes\\coldplay.jfif"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\daftpunk.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\daftpunk.jpeg"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\mj.jfif",
+      "PackagePath": "staticwebassets\\Imagenes\\mj.jfif"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\nirvana.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\nirvana.jpg"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\pinkfloyd.png",
+      "PackagePath": "staticwebassets\\Imagenes\\pinkfloyd.png"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\queen.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\queen.jpeg"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\taylorswift.jfif",
+      "PackagePath": "staticwebassets\\Imagenes\\taylorswift.jfif"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tp03.props",
+      "PackagePath": "build\\tp03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tp03.props",
+      "PackagePath": "buildMultiTargeting\\tp03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tp03.props",
+      "PackagePath": "buildTransitive\\tp03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tp03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

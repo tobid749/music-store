@@ -8,13 +8,15 @@ public class Disco
     public string productor { get; private set; }
 public string generoMusical { get; private set; }
 public string foto { get; private set; }
-    public Disco(string ID, string Artista, List<string> temas, string productor, string generoMusical, string foto)
+public string titulo { get; private set; }
+    public Disco(string ID, string Artista, List<string> temas, string productor, string generoMusical, string foto, string titulo)
     {
         this.ID = ID;
         this.Artista = Artista;
         this.productor = productor;
         this.generoMusical = generoMusical;
         this.foto = foto;
+        this.titulo = titulo;
       this.Temas = new List<string>();
     }
     

@@ -16,10 +16,18 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         Empresa.PrecargarDiscos();
-        ViewBag.infoEmpresa = Empresa.catalogo;
+        ViewBag.catalogo = Empresa.catalogo;
         return View();
     }
-   
+    public IActionResult selectDisco(string ID)
+    {
+    if (Empresa.catalogo.ContainsKey(ID))
+     {
+        ViewBag.Disco = Empresa.catalogo[ID];
+        ViewBag.ID = ID;
+     }
+     return View("infoDisco");
+    }   
 
 
        
