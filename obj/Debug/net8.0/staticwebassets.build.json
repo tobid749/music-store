@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4OZ1xLExmThQ0XrKOs9bp7ZzEMsh0bzBN/IalV+ICNQ=",
+  "Hash": "nfEIwFmWqm0gf2xH/dqk+ZbGZ4l3E6QiFyRVjxa3SoA=",
   "Source": "tp03",
   "BasePath": "_content/tp03",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "tp03\\wwwroot",
       "Source": "tp03",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\css\\site.css",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\favicon.ico",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\adele.jfif",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\adele.jfif",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/adele.jfif",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\adele.jfif"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\beyonce.jpg",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\beyonce.jpg",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/beyonce.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\beyonce.jpg"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\coldplay.jfif",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\coldplay.jfif",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/coldplay.jfif",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\coldplay.jfif"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\daftpunk.jpeg",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\daftpunk.jpeg",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/daftpunk.jpeg",
       "AssetKind": "All",
@@ -131,10 +131,29 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\daftpunk.jpeg"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\mj.jfif",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\logo.png",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
+      "BasePath": "_content/tp03",
+      "RelativePath": "Imagenes/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\mj.jfif",
+      "SourceId": "tp03",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/mj.jfif",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\mj.jfif"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\nirvana.jpg",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\nirvana.jpg",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/nirvana.jpg",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\nirvana.jpg"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\pinkfloyd.png",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\pinkfloyd.png",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/pinkfloyd.png",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\pinkfloyd.png"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\queen.jpeg",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\queen.jpeg",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/queen.jpeg",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\queen.jpeg"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\taylorswift.jfif",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\taylorswift.jfif",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/taylorswift.jfif",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\taylorswift.jfif"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Imagenes\\TheBeatles.jpg",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\TheBeatles.jpg",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Imagenes/TheBeatles.jpg",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\TheBeatles.jpg"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\js\\site.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\tp03-master\\tp03-master\\wwwroot\\Thumbs.db",
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Thumbs.db",
       "SourceId": "tp03",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\tp03-master\\tp03-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
       "BasePath": "_content/tp03",
       "RelativePath": "Thumbs.db",
       "AssetKind": "All",
