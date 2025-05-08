@@ -18,7 +18,7 @@ namespace tp03.Models
            catalogo.Add ("7", new Disco("7", "Nirvana", new List<string> {"Smells Like Teen Spirit", "Come As You Are"}, "Butch Vig", "Grunge", "nirvana.jpg", "Disco Nirvana"));
            catalogo.Add ("8", new Disco("8", "Coldplay", new List<string> {"Yellow", "Fix You"}, "Brian Eno", "Alternative", "coldplay.jfif", "Disco Coldplay"));
             catalogo.Add ("9", new Disco("9", "Beyoncé", new List<string> {"Halo", "Crazy in Love"}, "Scott Storch", "R&B", "beyonce.jpg", "Disco Beyonce"));
-           catalogo.Add ("10", new Disco("10", "Taylor Swift", new List<string> {"Blank Space", "Love Story"}, "Jack Antonoff", "Pop", "taylorswift.jpg", "Disco Taylor swift"));
+           catalogo.Add ("10", new Disco("10", "Taylor Swift", new List<string> {"Blank Space", "Love Story"}, "Jack Antonoff", "Pop", "taylorswift.jfif", "Disco Taylor swift"));
         }
     }
 }

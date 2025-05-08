@@ -1,23 +1,68 @@
 html {
-  font-size: 14px;
   min-height: 100%;
+  font-family: 'Trirong';
+  /* https://coolors.co/palette/31221c-e97d63-ede4d3-665449-f1bcb8-faf9e7 */
+  --color1: #ffabab;
+  --color2: #1a1616;
+  --color3: #382a2a;
+  --color4: #31221C;
+  --color5: #ffabab;
+  --color6: #F1BCB8;
 }
-
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
 }
-
 body {
-  margin: 10px;
-  padding: 10px;
+  padding: 5px;
+  background-color: var(--color1);
+}
+h1{
+  color: var(--color4);
+  margin-bottom: 0.1%;
+  margin-top: 0px;
+}
+p, li{
+  color: var(--color4);
+  font-size: 1.1rem;
+  margin-top: 0px;
+}
+h5{
+  color: var(--color3);
+  font-size: 1.1rem;
+}
+.imgInfo{
+  margin: 0.5%;
+  /* float: left; */
+}
+a{
+  color: var(--color2);
+  font-size: 1.5rem;
+}
+li{
+  border-bottom: 2px solid #DDD2C2;
+  /* width: 32%; */
+  width: 500px;
 }
 
-
-footer {
-  margin-top: 10px;
-  padding: 10px;
-  background-color: #f8f9fa;
-  border-top: 1px solid #e9ecef;
+section div{
+  background-color: var(--color5);
+  margin: 1%;
+  padding: 1%; 
+  float: left;
+  width: 29%;
+  text-align: center;
+  border: 2px solid var(--color6);
+  border-radius: 8px;
+}
+h5{
+margin: 0;
+}
+img{
+  height: 500px;
+  width: 500px;
+  border-radius: 3px;
+  background-color: purple;
+  padding: 2%;
 }

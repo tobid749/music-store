@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\Taylor_Swift.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Taylor_Swift.png"
+    },
+    {
       "Id": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\TheBeatles.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\TheBeatles.jpg"
     },

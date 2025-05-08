@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nfEIwFmWqm0gf2xH/dqk+ZbGZ4l3E6QiFyRVjxa3SoA=",
+  "Hash": "GnC+MvsrkjnWOZqlMyRvDHzK0Q5k8rEWE46pZNGbyXM=",
   "Source": "tp03",
   "BasePath": "_content/tp03",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\queen.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\Taylor_Swift.png",
+      "SourceId": "tp03",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\",
+      "BasePath": "_content/tp03",
+      "RelativePath": "Imagenes/Taylor_Swift.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Taylor_Swift.png"
     },
     {
       "Identity": "C:\\Users\\49373638\\Documents\\music-store\\wwwroot\\Imagenes\\taylorswift.jfif",

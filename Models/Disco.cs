@@ -17,7 +17,7 @@ public string titulo { get; private set; }
         this.generoMusical = generoMusical;
         this.foto = foto;
         this.titulo = titulo;
-      this.Temas = new List<string>();
+      this.Temas = temas;
     }
     
 }
