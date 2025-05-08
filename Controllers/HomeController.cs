@@ -25,6 +25,7 @@ public class HomeController : Controller
      {
         ViewBag.Disco = Empresa.catalogo[ID];
         ViewBag.ID = ID;
+
      }
      return View("infoDisco");
     }   

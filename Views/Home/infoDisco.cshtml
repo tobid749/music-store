@@ -1,0 +1,24 @@
+@using tp03.Models
+@{
+    ViewData["Title"] = "InfoDisco";
+}
+<a href="index.home">Volver</a>
+<div>
+@foreach (Disco item in ViewBag.Disco.Values)
+{
+    <h1>@ViewBag.item.titulo</h1>
+<p>@ViewBag.item.Artista</p>
+<p>@ViewBag.item.generoMusical</p>
+<p>@ViewBag.item.productor</p>
+<p>@ViewBag.item.foto</p>
+}
+</div>
+<div>
+    <h1>Listado de temas</h1>
+    @foreach (Disco item in ViewBag.Disco)
+    {
+       <p>@ViewBag.item.temas</p>
+    }
+</div>
+
+

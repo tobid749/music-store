@@ -11,11 +11,11 @@
 @foreach (Disco item in ViewBag.catalogo.Values)
 {
 <div>
-    <h3>@ViewBag.catalogo.titulo</h3>
-    <img src="@ViewBag.catalogo.foto" >
-    <h5>Artista: @ViewBag.catalogo.Artista</h5>
-    <h5>Productor: @ViewBag.catalogo.productor</h5>
-    <h5>Genero: @ViewBag.catalogo.generoMusical</h5>
+    <h3>@ViewBag.item.titulo</h3>
+    <img src="@ViewBag.item.foto" >
+    <h5>Artista: @ViewBag.item.Artista</h5>
+    <h5>Productor: @ViewBag.item.productor</h5>
+    <h5>Genero: @ViewBag.item.generoMusical</h5>
    <a href='@Url.Action("selectDisco","Home", new {ID=@item.ID})'>Datos Disco</a>
  </div>
 
